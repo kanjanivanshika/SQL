@@ -290,120 +290,62 @@ E. Revenue & Payment Analysis
 
 F. Station Performance Analysis
 
-This is where your project becomes more analytical.
+1. Calculate the total number of charging sessions at each station.
 
-1.
+2. Find the station with the highest number of charging sessions.
 
-Calculate the total number of charging sessions at each station.
+3. Calculate total energy consumption by station.
 
-2.
+4. Find the station generating the highest revenue.
 
-Find the station with the highest number of charging sessions.
+5. Calculate the average revenue per charging session for each station.
 
-3.
+6. Identify stations having more than the average number of charging sessions.
 
-Calculate total energy consumption by station.
+7. Rank stations based on total revenue.
 
-4.
+8. Rank stations based on charging-session volume.
 
-Find the station generating the highest revenue.
+## G. Maintenance Analysis ##
+1. Display all maintenance records along with station details.
 
-5.
+2. Identify stations that have undergone maintenance.
 
-Calculate the average revenue per charging session for each station.
+3. Calculate total maintenance cost for each station.
 
-6.
+4. Calculate total downtime for each station.
 
-Identify stations having more than the average number of charging sessions.
+5. Find the station with the highest downtime.
 
-7.
+6. Identify the most frequently occurring maintenance issue.
 
-Rank stations based on total revenue.
+7. Calculate the average downtime by issue type.
 
-8.
+8. Find stations where maintenance cost exceeds ₹10,000.
 
-Rank stations based on charging-session volume.
+9. Identify stations requiring repeated maintenance.
 
-G. Maintenance Analysis
-1.
+10. Compare station charging activity with maintenance downtime.
 
-Display all maintenance records along with station details.
+## H. Customer Charging Behavior##
 
-2.
+1. Identify customers whose total charging expenditure is greater than the average customer expenditure.
 
-Identify stations that have undergone maintenance.
+2. Identify customers who have completed more than 5 charging sessions.
 
-3.
+3. Find customers who have both an active account and completed charging sessions.
 
-Calculate total maintenance cost for each station.
+4. Identify customers who own multiple EVs.
 
-4.
+5. Find customers who have used more than one charging station.
 
-Calculate total downtime for each station.
+6. Identify customers who have used both AC and DC chargers.
 
-5.
+7. Find customers with the highest total energy consumption.
 
-Find the station with the highest downtime.
+8. Identify customers who have spent more than ₹10,000 on charging.
 
-6.
-
-Identify the most frequently occurring maintenance issue.
-
-7.
-
-Calculate the average downtime by issue type.
-
-8.
-
-Find stations where maintenance cost exceeds ₹10,000.
-
-9.
-
-Identify stations requiring repeated maintenance.
-
-10.
-
-Compare station charging activity with maintenance downtime.
-
-H. Customer Charging Behavior
-
-This is similar to the Customer Financial Behavior section in the example you showed.
-
-1.
-
-Identify customers whose total charging expenditure is greater than the average customer expenditure.
-
-2.
-
-Identify customers who have completed more than 5 charging sessions.
-
-3.
-
-Find customers who have both an active account and completed charging sessions.
-
-4.
-
-Identify customers who own multiple EVs.
-
-5.
-
-Find customers who have used more than one charging station.
-
-6.
-
-Identify customers who have used both AC and DC chargers.
-
-7.
-
-Find customers with the highest total energy consumption.
-
-8.
-
-Identify customers who have spent more than ₹10,000 on charging.
-
-I. Consolidated EV Network Analysis
-
-This is equivalent to the Customer & Banking Relationship Analysis in your screenshot.
+## I. Consolidated EV Network Analysis##
 
 1.
 
