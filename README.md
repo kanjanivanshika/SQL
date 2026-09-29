@@ -372,12 +372,10 @@ Payment Status
 
 6. Display customer-wise:
 Total Sessions
-
 Total Energy Consumed
-
 Total Amount Spent
 
-6. Create a consolidated station performance view showing:
+Create a consolidated station performance view showing:
 
 Station
 
