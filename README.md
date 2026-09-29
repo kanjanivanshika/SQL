@@ -352,31 +352,43 @@ The system records:
 2. Identify all registered customers and display their vehicle details, including customers who have not completed a charging session.
 
 3. Generate a consolidated view showing:
-
 Customer Name
+
 Vehicle Model
+
 City
+
 Station Name
+
 Charger Type
+
 Energy Consumed
+
 Charging Cost
+
 Payment Status
 
-4. Identify stations operating in the same city.
+5. Identify stations operating in the same city.
 
-5. Display customer-wise:
-
+6. Display customer-wise:
 Total Sessions
+
 Total Energy Consumed
+
 Total Amount Spent
 
 6. Create a consolidated station performance view showing:
 
 Station
+
 City
+
 Total Sessions
+
 Total Energy
+
 Total Revenue
+
 Total Downtime
 
 ## J. Advanced SQL Analysis
@@ -395,8 +407,11 @@ Total Downtime
 For these, we'll use:
 
 JOIN
+
 GROUP BY
+
 HAVING
+
 CASE
 Subqueries
 CTEs
