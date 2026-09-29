@@ -173,7 +173,7 @@ The system records:
 
 📊 VOLTVISTA SQL PROJECT – BUSINESS ANALYSIS QUESTIONS
 
-A. Customer & Basic Analysis:
+## A. Customer & Basic Analysis:
 1. VoltVista wants to maintain a customer directory. Display complete details of all registered customers.
 
 2. Management wants to know the different cities from which VoltVista customers are coming. Display unique customer cities.
@@ -201,7 +201,7 @@ A. Customer & Basic Analysis:
 13. Identify the most recently registered customers.
 
 
-B. Customer Profile & Vehicle Analysis:
+## B. Customer Profile & Vehicle Analysis:
 1. Identify customers who own at least one registered EV.
 
 2. Find customers who own more than one vehicle.
@@ -218,7 +218,7 @@ B. Customer Profile & Vehicle Analysis:
 
 8. Find the most common vehicle type.
 
-C. Charging Station Analysis:
+## C. Charging Station Analysis:
 
 1. Display all charging stations along with city and area details.
 
@@ -240,7 +240,7 @@ C. Charging Station Analysis:
 
 10. Identify cities with more than 3 charging stations.
 
-D. Charging Activity Analysis:
+## D. Charging Activity Analysis:
 
 1. Display all charging sessions along with customer, vehicle, station and charging details.
 
@@ -266,7 +266,7 @@ D. Charging Activity Analysis:
 
 12. Identify charging sessions costing more than ₹500.
 
-E. Revenue & Payment Analysis
+## E. Revenue & Payment Analysis
 
 1. Display all payments along with their corresponding charging-session details.
 
@@ -288,7 +288,7 @@ E. Revenue & Payment Analysis
 
 10. Calculate monthly charging revenue.
 
-F. Station Performance Analysis
+## F. Station Performance Analysis
 
 1. Calculate the total number of charging sessions at each station.
 
@@ -306,7 +306,7 @@ F. Station Performance Analysis
 
 8. Rank stations based on charging-session volume.
 
-## G. Maintenance Analysis ##
+## G. Maintenance Analysis 
 1. Display all maintenance records along with station details.
 
 2. Identify stations that have undergone maintenance.
@@ -347,17 +347,11 @@ F. Station Performance Analysis
 
 ## I. Consolidated EV Network Analysis##
 
-1.
+1. Display each customer's name along with their vehicle and primary charging city.
 
-Display each customer's name along with their vehicle and primary charging city.
+2. Identify all registered customers and display their vehicle details, including customers who have not completed a charging session.
 
-2.
-
-Identify all registered customers and display their vehicle details, including customers who have not completed a charging session.
-
-3.
-
-Generate a consolidated view showing:
+3. Generate a consolidated view showing:
 
 Customer Name
 Vehicle Model
@@ -367,20 +361,16 @@ Charger Type
 Energy Consumed
 Charging Cost
 Payment Status
-4.
 
-Identify stations operating in the same city.
+4. Identify stations operating in the same city.
 
-5.
-
-Display customer-wise:
+5. Display customer-wise:
 
 Total Sessions
 Total Energy Consumed
 Total Amount Spent
-6.
 
-Create a consolidated station performance view showing:
+6. Create a consolidated station performance view showing:
 
 Station
 City
@@ -388,9 +378,8 @@ Total Sessions
 Total Energy
 Total Revenue
 Total Downtime
-J. Advanced SQL Analysis
 
-This section will help demonstrate your advanced SQL skills.
+## J. Advanced SQL Analysis
 
 1. Top 5 customers by total charging expenditure.
 2. Top 5 stations by total revenue.
