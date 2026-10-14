@@ -364,10 +364,10 @@ Payment Status
 4. Identify stations operating in the same city.
 
 5. Display customer-wise:
-</> Plain Text   
-Total Sessions
-Total Energy Consumed
-Total Amount Spent
+| -------------- |
+| Total Sessions |
+| Total Energy Consumed |
+| Total Amount Spent |
 
 7. Create a consolidated station performance view showing:
 Station
