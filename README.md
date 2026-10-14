@@ -364,7 +364,7 @@ Payment Status
 4. Identify stations operating in the same city.
 
 5. Display customer-wise:
-| -------------- |
+|                |
 | Total Sessions |
 | Total Energy Consumed |
 | Total Amount Spent |
