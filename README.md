@@ -345,7 +345,7 @@ The system records:
 
 8. Identify customers who have spent more than ₹10,000 on charging.
 
-## I. Consolidated EV Network Analysis##
+## I. Consolidated EV Network Analysis
 
 1. Display each customer's name along with their vehicle and primary charging city.
 
@@ -353,40 +353,27 @@ The system records:
 
 3. Generate a consolidated view showing:
 Customer Name
-
 Vehicle Model
-
 City
-
 Station Name
-
 Charger Type
-
 Energy Consumed
-
 Charging Cost
-
 Payment Status
 
-5. Identify stations operating in the same city.
+4. Identify stations operating in the same city.
 
-6. Display customer-wise:
+5. Display customer-wise:
 Total Sessions
 Total Energy Consumed
 Total Amount Spent
 
-Create a consolidated station performance view showing:
-
+6. Create a consolidated station performance view showing:
 Station
-
 City
-
 Total Sessions
-
 Total Energy
-
 Total Revenue
-
 Total Downtime
 
 ## J. Advanced SQL Analysis
