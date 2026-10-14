@@ -364,44 +364,39 @@ Payment Status
 4. Identify stations operating in the same city.
 
 5. Display customer-wise:
-|                |
 | Total Sessions |
 | Total Energy Consumed |
 | Total Amount Spent |
 
 7. Create a consolidated station performance view showing:
-Station
-City
-Total Sessions
-Total Energy
-Total Revenue
-Total Downtime
+| Station |
+| City    |
+| Total Sessions |
+| Total Energy   |
+| Total Revenue  |
+| Total Downtime |
 
 ## J. Advanced SQL Analysis
 
-1. Top 5 customers by total charging expenditure.
-2. Top 5 stations by total revenue.
-3. Rank cities based on charging revenue.
-4. Rank stations based on charging-session volume.
-5. Find customers whose spending is above the average customer spending.
-6. Find stations whose revenue is above the average station revenue.
-7. Calculate running monthly revenue.
-8. Calculate month-over-month revenue.
-9. Find the highest-revenue station in each city.
-10. Find the most-used charger type in each city.
-
+## 1. Top 5 customers by total charging expenditure.
+## 2. Top 5 stations by total revenue.
+## 3. Rank cities based on charging revenue.
+## 4. Rank stations based on charging-session volume.
+## 5. Find customers whose spending is above the average customer spending.
+## 6. Find stations whose revenue is above the average station revenue.
+## 7. Calculate running monthly revenue.
+## 8. Calculate month-over-month revenue.
+## 9. Find the highest-revenue station in each city.
+## 10. Find the most-used charger type in each city.
 For these, we'll use:
-
-JOIN
-
-GROUP BY
-
-HAVING
+| JOIN |
+| GROUP BY | 
+| HAVING |
 
 CASE
-Subqueries
-CTEs
-RANK()
-DENSE_RANK()
-ROW_NUMBER()
-Window Functions
+| Subqueries |
+| CTEs |
+| RANK() |
+| DENSE_RANK() |
+| ROW_NUMBER() |
+| Window Functions |
